@@ -1,4 +1,5 @@
 ## Hi there 👋
+plz ignore those AI slop in my repo, they are my hw :(
 
 <!--
 **Atigerlee/Atigerlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
